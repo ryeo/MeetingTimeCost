@@ -1,0 +1,9 @@
+{
+   "name": "poker-vote",
+   "description": "Poker vote system for agile project management",
+   "homepage": "http://benjamin-richard.com",
+   "author": "Benjamin RICHARD",
+   "version": "0.1",
+   "git": "https://github.com/Rebolon",
+   "packages" : {}
+}

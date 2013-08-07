@@ -2,6 +2,7 @@
   "packages": {
     "router": {},
     "spin": {},
-    "streams": {}
+    "streams": {},
+    "poker-vote": {}
   }
 }
